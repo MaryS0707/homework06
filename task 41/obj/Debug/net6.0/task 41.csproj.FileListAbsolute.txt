@@ -1,0 +1,15 @@
+C:\Users\maria\Desktop\homework06\task 41\bin\Debug\net6.0\task 41.exe
+C:\Users\maria\Desktop\homework06\task 41\bin\Debug\net6.0\task 41.deps.json
+C:\Users\maria\Desktop\homework06\task 41\bin\Debug\net6.0\task 41.runtimeconfig.json
+C:\Users\maria\Desktop\homework06\task 41\bin\Debug\net6.0\task 41.dll
+C:\Users\maria\Desktop\homework06\task 41\bin\Debug\net6.0\task 41.pdb
+C:\Users\maria\Desktop\homework06\task 41\obj\Debug\net6.0\task 41.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\homework06\task 41\obj\Debug\net6.0\task 41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\homework06\task 41\obj\Debug\net6.0\task 41.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\homework06\task 41\obj\Debug\net6.0\task 41.AssemblyInfo.cs
+C:\Users\maria\Desktop\homework06\task 41\obj\Debug\net6.0\task 41.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\homework06\task 41\obj\Debug\net6.0\task 41.dll
+C:\Users\maria\Desktop\homework06\task 41\obj\Debug\net6.0\refint\task 41.dll
+C:\Users\maria\Desktop\homework06\task 41\obj\Debug\net6.0\task 41.pdb
+C:\Users\maria\Desktop\homework06\task 41\obj\Debug\net6.0\task 41.genruntimeconfig.cache
+C:\Users\maria\Desktop\homework06\task 41\obj\Debug\net6.0\ref\task 41.dll
